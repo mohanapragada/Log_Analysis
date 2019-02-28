@@ -79,7 +79,7 @@ Download the project zip file to you computer and unzip the file then place insi
   ```
    9. Run newsdata.py using:
   ```
-    $ python LogAnalysis_Udacity.py.py
+    $ python L_A_U.py
   ```
   Note: queries will take sometime to execute 
 
